@@ -1,3 +1,5 @@
+# CertiChain
+
 # 🔐 Core Functionality
 
 File Hash Storage: Upload files and store their SHA-256 hashes on the blockchain
