@@ -1,6 +1,7 @@
 # CertiChain
 
-🚀 Quick Start
+# 🚀 Quick Start
+
 Prerequisites
 
 Node.js (v14.0.0 or higher)
@@ -8,21 +9,21 @@ npm or yarn package manager
 
 Installation
 
-Clone the repository
-bashgit clone https://github.com/yourusername/certichain.git
+# Clone the repository
+git clone https://github.com/ErebusWebbed/certichain.git
 cd certichain
 
-Install dependencies
-bashnpm install
+# Install dependencies
+npm install
 
-Start the server
-bashnpm start
+#Start the server
+npm start
 
-Open your browser
+# Open your browser
 http://localhost:3000
 
 
-Dependencies
+# Dependencies
 json{
   "express": "^4.18.2",
   "express-fileupload": "^1.4.0",
@@ -30,7 +31,7 @@ json{
   "fs": "built-in",
   "path": "built-in"
 }
-📖 Usage
+# 📖 Usage
 1. Upload Files
 
 Drag and drop files or click to browse
@@ -58,7 +59,7 @@ Reset blockchain to genesis block
 Clear all uploaded files
 View comprehensive blockchain statistics
 
-🔧 API Endpoints
+# 🔧 API Endpoints
 GET /api/chain
 Returns the complete blockchain with statistics.
 Response:
